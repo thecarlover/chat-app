@@ -1,7 +1,7 @@
 
 
 
-export class Store{
+export class InMemory  Store{
     constructor(){
 
     }
